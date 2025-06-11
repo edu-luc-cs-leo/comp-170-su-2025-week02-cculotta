@@ -22,7 +22,7 @@ def solve_quadratic(a, b, c):
         print("Solutions:")
         print("x1 =", x1)
         print("x2 =", x2)
-solve_quadratic(1, -3, 2)  # This will solve x^2 - 3x + 2 = 0
+solve_quadratic(1, -3, 2) 
 
 
 
